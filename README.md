@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a 2D Game called Codeman using Java OOP!**
 
-- 🌱 I’m currently learning **React.js and Typescript.**
+- 🌱 I’m currently learning **React.js, Typescript, Data Structures, and Algorithms.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
