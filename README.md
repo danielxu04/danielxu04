@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Xu</h1>
 <h3 align="center">I am a passionate fullstack developer.</h3>
 
-- 🔭 I’m currently working on **a 2D Game using Java OOP and an Expense Tracker App using React.js!**
+- 🔭 I’m currently working on **a 2D Game using Java OOP and an Expense Tracker App using React.js.**
 
 - 🌱 I’m currently learning **React.js, Typescript, Data Structures, and Algorithms.**
 
