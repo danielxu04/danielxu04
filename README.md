@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Xu</h1>
-<h3 align="center">I am a passionate fullstack developer.</h3>
+<h3 align="center">I am a passionate software engineer.</h3>
 
 - 🔭 I’m currently working on **a 2D Game using Java OOP and a Personal Website using Next.js!**
 
-- 🌱 I’m currently learning **React.js, Typescript, Data Structures, and Algorithms.**
+- 🌱 I’m currently learning **Next.js, Firebase, Data Structures, and Algorithms.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
