@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Firebase, Typescript, Pandas, Matplotlib, Data Structures, and Algorithms.**
 
-- Check out my personal website at https://danielxu04.github.io/danielxu/ :)
+- Check out my personal website at https://danielxu.ca/ !
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
