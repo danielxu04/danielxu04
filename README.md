@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Xu.</h1>
 <h3 align="center">I am a passionate software engineer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danielxu04&label=Profile%20views&color=0e75b6&style=flat" alt="danielxu04" /> </p>
-
 - 🔭 I’m currently working on **a Privilege Walk API using Next.js, Tailwind CSS and Firebase & a 2D game with Java!**
 
 - 🌱 I’m currently learning **Firebase, Typescript, Pandas, Matplotlib, Data Structures, and Algorithms.**
