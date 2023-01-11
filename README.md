@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Xu.</h1>
+<h1 align="center">Hi, I'm Daniel Xu.</h1>
 <h3 align="center">I am a passionate software engineer.</h3>
 
 - 🔭 I’m currently working on **a Privilege Walk API using Next.js, Tailwind CSS and Firebase & a 2D game with Java!**
