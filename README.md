@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Daniel Xu.</h1>
 <h3 align="center">I am a passionate software engineer.</h3>
 
-- 🔭 I’m currently working on **a Privilege Walk API using Next.js, Tailwind CSS and Firebase & a 2D game with Java!**
+- 🔭 I’m currently working on **a Privilege Walk API using Next.js, Tailwind CSS and Firebase!**
 
-- 🌱 I’m currently learning **Firebase, Typescript, Pandas, Matplotlib, Data Structures, and Algorithms.**
+- 🌱 I’m currently learning **SQL, Tensorflow, Pandas, and Scikit-learn.**
 
 - 👨‍💻 Check out my personal site: [https://danielxu.ca/](https://danielxu.ca/)
 
