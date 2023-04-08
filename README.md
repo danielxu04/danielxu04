@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Virtual Privilege Walk Application for Discourse Agency using Next.js, Tailwind CSS, Firebase, and anime.js!**
 
-- 🌱 I’m currently learning **SQL, Tensorflow, Pandas, and Scikit-learn.**
+- 🌱 I’m currently learning **SQL, TensorFlow, Pandas, and Scikit-learn.**
 
 - 👨‍💻 Check out my personal site: [https://danielxu.ca/](https://danielxu.ca/)
 
