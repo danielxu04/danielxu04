@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Daniel Xu.</h1>
-<h3 align="center">I am a passionate software engineer.</h3>
 
 - 🔭 I’m currently working on **a Virtual Privilege Walk Application for Discourse Agency using Next.js, Tailwind CSS, Firebase, anime.js, and node.js!**
 
