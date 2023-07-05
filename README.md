@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Daniel Xu. Nice to meet you!</h1>
 
-- 🔭 I’m currently working on **a Virtual Privilege Walk Application for Discourse Agency using Next.js, Tailwind CSS, Firebase, anime.js, and node.js!**
+- 🔭 I’m currently working on **an automated Stock Market Trading application!**
 
 - 🌱 I’m currently learning about **PostgreSQL, Neural Networks, and Financial Pricing Options.**
 
