@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Daniel Xu. Nice to meet you!</h1>
 
-- 🔭 I’m currently working on **an automated Stock Market Trading application!**
+- 🔭 I’m currently working on **an automated Stock Market Trading Bot and Python implementations of Technical/Performance Indicators for market analysis!**
 
-- 🌱 I’m currently learning about **PostgreSQL, Neural Networks, and Financial Pricing Options.**
+- 🌱 I’m currently learning about **PostgreSQL, Financial Pricing Options, and the basics of Machine Learning.**
 
 - 👨‍💻 Check out my personal site: [https://danielxu.ca/](https://danielxu.ca/)
 
