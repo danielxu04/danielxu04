@@ -9,6 +9,7 @@
 
 <em>**I'm currently working on:**
 - An Automated Stock Market Trading Bot
+- Backtesting various <a href="https://github.com/danielxu04/backtesting-strategies">Financial Strategies</a> for performance/profitability optimization
 - A collection of <a href="https://github.com/danielxu04/technical-indicators">Technical Indicators</a> for Stock Market Analysis <img src="https://github.com/danielxu04/danielxu04/assets/106186118/2da67bfc-add2-4581-8cbe-67ecec31da17" width=20 height=20></img>
 - A collection of <a href="https://github.com/danielxu04/performance-indicators">Performance Indicators</a> to assess Stock Market Performance
 </em>
