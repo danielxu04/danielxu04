@@ -8,7 +8,7 @@
 <div><em>Web Developer at <a href="https://www.blackberry.com/us/en"><strong>BlackBerry</strong>&ensp;</a></em><img src="https://github.com/danielxu04/danielxu04/assets/106186118/f7405f25-c609-478f-bdff-ea8eea82425b" width=25 height=25></img></div><br />
 
 <em>**I'm currently working on:**
-- An Automated Stock Market <a href="https://github.com/danielxu04/DynamicForexTrader">Trading System</a>
+- An Automated <a href="https://github.com/danielxu04/DynamicForexTrader">Stock Market Trading System</a>
 - Backtesting various <a href="https://github.com/danielxu04/backtesting-strategies">Financial Strategies</a> for performance and portfolio optimization
 - A collection of <a href="https://github.com/danielxu04/performance-indicators">Performance Indicators</a> to assess Stock Market Performance <img src="https://github.com/danielxu04/danielxu04/assets/106186118/2da67bfc-add2-4581-8cbe-67ecec31da17" width=20 height=20></img>
 </em>
