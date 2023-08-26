@@ -9,7 +9,7 @@
 - A collection of <a href="https://github.com/danielxu04/performance-indicators">Performance Indicators</a> to assess Stock Market Performance <img src="https://github.com/danielxu04/danielxu04/assets/106186118/2da67bfc-add2-4581-8cbe-67ecec31da17" width=20 height=20></img>
 </em>
 
-<div><em>At the moment, I'm learning more about PostgreSQL, Financial Pricing Options, and Machine Learning. </em><img src="https://github.com/danielxu04/danielxu04/assets/106186118/a96ccd6d-56b6-4191-abe1-0a3ec69caff5" width=40 height=40></img></div><br />
+<div><em>At the moment, I'm learning more about Deep Learning and Financial Pricing Options. </em><img src="https://github.com/danielxu04/danielxu04/assets/106186118/a96ccd6d-56b6-4191-abe1-0a3ec69caff5" width=40 height=40></img></div><br />
 
 <em>**Be sure to check out my personal site**: [https://danielxu.ca/](https://danielxu.ca/)</em> &ensp;
 <br />
