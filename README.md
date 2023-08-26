@@ -4,7 +4,7 @@
 <div><em>Computer Science Student at the <a href="https://uwaterloo.ca/future-students/programs/computer-science"><strong>University of Waterloo</strong> </a></em><img src="https://github.com/danielxu04/danielxu04/assets/106186118/0983846e-5840-4527-96e8-647cbe53b570" width=25 height=25></img></div><br />
 
 <em>**I'm currently working on:**
-- An Automated <a href="https://github.com/danielxu04/DynamicForexTrader">Stock Market Trading System</a> <img src="https://github.com/danielxu04/danielxu04/assets/106186118/f7405f25-c609-478f-bdff-ea8eea82425b" width=25 height=25></img>
+- An Automated Deep Learning powered <a href="https://github.com/danielxu04/DynamicForexTrader">DynamicForexTrader</a> <img src="https://github.com/danielxu04/danielxu04/assets/106186118/f7405f25-c609-478f-bdff-ea8eea82425b" width=25 height=25></img>
 - Backtesting various <a href="https://github.com/danielxu04/backtesting-strategies">Financial Strategies</a> for performance and portfolio optimization
 - A collection of <a href="https://github.com/danielxu04/performance-indicators">Performance Indicators</a> to assess Stock Market Performance <img src="https://github.com/danielxu04/danielxu04/assets/106186118/2da67bfc-add2-4581-8cbe-67ecec31da17" width=20 height=20></img>
 </em>
