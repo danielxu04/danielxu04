@@ -2,7 +2,7 @@
 
 
 <div><em>Computer Science Student at the <a href="https://uwaterloo.ca/future-students/programs/computer-science"><strong>University of Waterloo</strong> </a></em><img src="https://github.com/danielxu04/danielxu04/assets/106186118/0983846e-5840-4527-96e8-647cbe53b570" width=25 height=25></img></div><br />
-<div><em>Incoming <strong>Quantitative Analyst</strong> - Derivatives, Collateral, and Fixed Income at <strong>HOOPP </strong></em><img src="https://github.com/danielxu04/danielxu04/assets/106186118/52c8240c-288f-494f-ba37-a1f54d5731e6" width=25 height=25></img></div><br /><br />
+<div><em><strong>Quantitative Analyst</strong> - Derivatives, Collateral, and Fixed Income at <strong>HOOPP </strong></em><img src="https://github.com/danielxu04/danielxu04/assets/106186118/52c8240c-288f-494f-ba37-a1f54d5731e6" width=25 height=25></img></div><br /><br />
 
 <em>**I'm currently working on:**
 - <a href="https://github.com/danielxu04/DerivaPrice">DerivaPrice</a>, a derivative pricing calculator using various financial pricing models <img src="https://github.com/danielxu04/danielxu04/assets/106186118/2da67bfc-add2-4581-8cbe-67ecec31da17" width=20 height=20></img>
