@@ -3,12 +3,7 @@
 
 <div><em>Computer Science Student at the <a href="https://uwaterloo.ca/future-students/programs/computer-science"><strong>University of Waterloo</strong> </a></em><img src="https://github.com/danielxu04/danielxu04/assets/106186118/0983846e-5840-4527-96e8-647cbe53b570" width=25 height=25></img></div><br />
 
-<em>**I'm currently working on:**
-- <a href="https://github.com/danielxu04/DerivaPrice">DerivaPrice</a>, a derivative pricing calculator using various financial pricing models <img src="https://github.com/danielxu04/danielxu04/assets/106186118/2da67bfc-add2-4581-8cbe-67ecec31da17" width=20 height=20></img>
-- An Automated Deep Learning powered <a href="https://github.com/danielxu04/DynamicForexTrader">DynamicForexTrader</a> <img src="https://github.com/danielxu04/danielxu04/assets/106186118/f7405f25-c609-478f-bdff-ea8eea82425b" width=25 height=25></img>
-</em>
-
-<div><em>At the moment, I'm learning more about deep learning, stochastic calculus, and systematic trading. </em><img src="https://github.com/danielxu04/danielxu04/assets/106186118/a96ccd6d-56b6-4191-abe1-0a3ec69caff5" width=40 height=40></img></div><br />
+<div><em>At the moment, I'm learning more about low level software development, predictive modeling, and systematic trading. </em><img src="https://github.com/danielxu04/danielxu04/assets/106186118/a96ccd6d-56b6-4191-abe1-0a3ec69caff5" width=40 height=40></img></div><br />
 
 <em>**Be sure to check out my personal site**: [https://danielxu.ca/](https://danielxu.ca/)</em> &ensp;
 <br />
