@@ -5,7 +5,7 @@
 
 <div><em>At the moment, I'm learning more about distributed systems, predictive modeling, and systematic trading. </em><img src="https://github.com/danielxu04/danielxu04/assets/106186118/a96ccd6d-56b6-4191-abe1-0a3ec69caff5" width=40 height=40></img></div><br />
 
-<em>**Be sure to check out my personal site**: [https://danielxu.ca/](https://danielxu.ca/)</em> &ensp;
+<em>**You can check out my personal site**: [https://danielxu.ca/](https://danielxu.ca/)</em> &ensp;
 <br />
 
 <h4 align="left"><em>Here are some languages and tools that I use:</em></h4>
