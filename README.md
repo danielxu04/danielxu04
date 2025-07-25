@@ -7,6 +7,6 @@
 <br />
 
 <em>**You can check out my personal site**: [https://danielxu.ca/](https://danielxu.ca/)</em> &ensp;
-<br />
+<br /><br /><br />
 
 <em><strong>Check out some of my work below:</strong></em>
